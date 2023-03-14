@@ -1,0 +1,2236 @@
+[
+  {
+    "id": 1,
+    "name": "I: Región de Tarapacá",
+    "provincias": [
+      {
+        "id": 11,
+        "name": "Iquique",
+        "comunas": [
+          {
+            "id": 1101,
+            "name": "Iquique",
+            "token": "3b53cc55-b269-435f-b8f2-e6498998004c"
+          },
+          {
+            "id": 1107,
+            "name": "Alto Hospicio",
+            "token": "49367940-deb5-4bc6-bff9-98a868b241a6"
+          }
+        ],
+        "token": "21eb5bc1-a205-44f4-94e7-0915904b8bc6"
+      },
+      {
+        "id": 14,
+        "name": "Tamarugal",
+        "comunas": [
+          {
+            "id": 1106,
+            "name": "Pozo Almonte",
+            "token": "1b0c9a57-ddb5-43d6-803d-72010b41e2a1"
+          },
+          {
+            "id": 1102,
+            "name": "Camiña",
+            "token": "05afdccf-684e-4c35-bbc5-f21225ddd613"
+          },
+          {
+            "id": 1103,
+            "name": "Colchane",
+            "token": "b548927f-1b91-4dc6-b36c-32451b0ebb1e"
+          },
+          {
+            "id": 1104,
+            "name": "Huara",
+            "token": "d9237d32-2d1d-4f4f-8377-2d72fcfddf93"
+          },
+          {
+            "id": 1105,
+            "name": "Pica",
+            "token": "0184e09c-56b4-47a9-8329-b700a3b71780"
+          }
+        ],
+        "token": "e897d2e1-e129-45fa-82fd-39ca8ee39f59"
+      }
+    ],
+    "token": "471453b7-042f-49b5-be7a-f89bd91859f7"
+  },
+  {
+    "id": 2,
+    "name": "II: Región de Antofagasta",
+    "provincias": [
+      {
+        "id": 21,
+        "name": "Antofagasta",
+        "comunas": [
+          {
+            "id": 2101,
+            "name": "Antofagasta",
+            "token": "eb80b3a1-fa0b-4c13-ba6b-09f97286e0b9"
+          },
+          {
+            "id": 2102,
+            "name": "Mejillones",
+            "token": "23113f07-d50c-49dc-8346-8320b250c0d8"
+          },
+          {
+            "id": 2103,
+            "name": "Sierra Gorda",
+            "token": "bd1dde11-3630-4d40-a8c4-1bfac099c50b"
+          },
+          {
+            "id": 2104,
+            "name": "Taltal",
+            "token": "427b5931-e988-4f39-ae32-0912a6bfc02b"
+          }
+        ],
+        "token": "ca650531-b5ec-48ab-a287-fcf19abd12c5"
+      },
+      {
+        "id": 22,
+        "name": "El Loa",
+        "comunas": [
+          {
+            "id": 2201,
+            "name": "Calama",
+            "token": "07cc1e6f-7ba1-47bb-960c-56b2f500c8a4"
+          },
+          {
+            "id": 2202,
+            "name": "Ollagüe",
+            "token": "ba3f737a-2208-4939-ac32-e123579824bf"
+          },
+          {
+            "id": 2203,
+            "name": "San Pedro de Atacama",
+            "token": "80e9a8e5-37ea-4b91-8ba0-75a67f85bdaa"
+          }
+        ],
+        "token": "0eb338e2-893b-454b-bcc1-e03e37458d85"
+      },
+      {
+        "id": 23,
+        "name": "Tocopilla",
+        "comunas": [
+          {
+            "id": 2301,
+            "name": "Tocopilla",
+            "token": "5a6cb04b-46da-4f95-96bb-d26c87f757d6"
+          },
+          {
+            "id": 2105,
+            "name": "María Elena",
+            "token": "2acb9dd3-6279-4cdf-8866-bd5a87e52289"
+          }
+        ],
+        "token": "94147e27-18bd-444a-8d3d-16911b2b6224"
+      }
+    ],
+    "token": "ca4fc6c0-c44a-45b6-81d3-89492c39a178"
+  },
+  {
+    "id": 3,
+    "name": "III: Región de Atacama",
+    "provincias": [
+      {
+        "id": 31,
+        "name": "Copiapó",
+        "comunas": [
+          {
+            "id": 3101,
+            "name": "Copiapó",
+            "token": "9ef9ee24-2b7a-4363-a59c-31a6940bf120"
+          },
+          {
+            "id": 3102,
+            "name": "Caldera",
+            "token": "97da8e21-1bc0-4493-a58e-efa6d14f44f2"
+          },
+          {
+            "id": 3103,
+            "name": "Tierra Amarilla",
+            "token": "2c428021-0f2c-41ca-a7da-e94971a0dadd"
+          }
+        ],
+        "token": "cdfe56ae-193a-416e-8d35-f80959c45209"
+      },
+      {
+        "id": 32,
+        "name": "Chañaral",
+        "comunas": [
+          {
+            "id": 3201,
+            "name": "Chañaral",
+            "token": "9a725803-5251-4b90-944e-1ad97f0dbb3f"
+          },
+          {
+            "id": 3202,
+            "name": "Diego de Almagro",
+            "token": "8ddb7564-f34c-4335-a0ca-ac9c55a41902"
+          }
+        ],
+        "token": "9bbc8ad8-e484-429f-9c17-3e8d56d9d37f"
+      },
+      {
+        "id": 33,
+        "name": "Huasco",
+        "comunas": [
+          {
+            "id": 3301,
+            "name": "Vallenar",
+            "token": "2b0a2775-c99e-4c7c-ac55-070e70406c81"
+          },
+          {
+            "id": 3302,
+            "name": "Alto del Carmen",
+            "token": "1aab7c79-5373-4b87-8bf8-f0f0800aa4ed"
+          },
+          {
+            "id": 3303,
+            "name": "Freirina",
+            "token": "7d51b46c-817d-482e-9e8c-2a7dff572c81"
+          },
+          {
+            "id": 3304,
+            "name": "Huasco",
+            "token": "413859a7-b627-40a1-a07c-8aab05ce4b37"
+          }
+        ],
+        "token": "43ba0633-f129-4348-8d9c-588cee4a69ef"
+      }
+    ],
+    "token": "3a3f69b5-6dba-4482-9661-e78936a13882"
+  },
+  {
+    "id": 4,
+    "name": "IV: Región de Coquimbo",
+    "provincias": [
+      {
+        "id": 41,
+        "name": "Elqui",
+        "comunas": [
+          {
+            "id": 4101,
+            "name": "La Serena",
+            "token": "5e1ceab6-0f03-4d31-afe4-9fd75bcdd64d"
+          },
+          {
+            "id": 4102,
+            "name": "Coquimbo",
+            "token": "97cab6d0-7af5-4d41-a686-92708f425939"
+          },
+          {
+            "id": 4103,
+            "name": "Andacollo",
+            "token": "f63dafbd-aebc-40e6-ad02-3562e905dec4"
+          },
+          {
+            "id": 4104,
+            "name": "La Higuera",
+            "token": "f67ab3ae-b8f8-4653-a0c7-97e3e0061dae"
+          },
+          {
+            "id": 4105,
+            "name": "Paihuano",
+            "token": "5fde9332-5b0b-4122-a682-0efaf280d39b"
+          },
+          {
+            "id": 4106,
+            "name": "Vicuña",
+            "token": "8fd68f65-800d-45fb-aaeb-de1a736544ca"
+          }
+        ],
+        "token": "3a083ff0-f776-40ea-90df-bd0c5c824ace"
+      },
+      {
+        "id": 42,
+        "name": "Choapa",
+        "comunas": [
+          {
+            "id": 4201,
+            "name": "Illapel",
+            "token": "1b70207f-4cc5-49ca-a90f-c47962a7630d"
+          },
+          {
+            "id": 4202,
+            "name": "Canela",
+            "token": "6a87fa70-d894-4279-ac9c-1533ba0af0e4"
+          },
+          {
+            "id": 4203,
+            "name": "Los Vilos",
+            "token": "54786a6a-ac44-4e0e-aa51-06a3dee5ec6c"
+          },
+          {
+            "id": 4204,
+            "name": "Salamanca",
+            "token": "332494d0-bbf2-4f29-b003-c8a7c0b5fbb6"
+          }
+        ],
+        "token": "3703b192-80e0-4d6b-b990-01c50e7ed64d"
+      },
+      {
+        "id": 43,
+        "name": "Limarí",
+        "comunas": [
+          {
+            "id": 4301,
+            "name": "Ovalle",
+            "token": "51d42d0d-8d72-45fb-bd9c-0a70e9499c8a"
+          },
+          {
+            "id": 4302,
+            "name": "Combarbalá",
+            "token": "a38d32b1-72dd-4a60-8ee6-f82d59c181f2"
+          },
+          {
+            "id": 4303,
+            "name": "Monte Patria",
+            "token": "92f3597c-e890-42a2-ada3-e31129ba709d"
+          },
+          {
+            "id": 4304,
+            "name": "Punitaqui",
+            "token": "c08ba98c-299a-4650-8ec2-59ec461f7a53"
+          },
+          {
+            "id": 4305,
+            "name": "Río Hurtado",
+            "token": "721d2314-5269-46a5-b31b-b86c64f0c8c3"
+          }
+        ],
+        "token": "254fd543-bb69-4690-8efd-4f3382137588"
+      }
+    ],
+    "token": "981e84a3-ef4e-4d4f-a727-4ca17efc73ab"
+  },
+  {
+    "id": 5,
+    "name": "V: Región de Valparaíso",
+    "provincias": [
+      {
+        "id": 51,
+        "name": "Valparaíso",
+        "comunas": [
+          {
+            "id": 5101,
+            "name": "Valparaíso",
+            "token": "da01c97c-a18b-44eb-83e0-04306bcaf929"
+          },
+          {
+            "id": 5102,
+            "name": "Casablanca",
+            "token": "c748dd93-0a1c-428c-894a-cfe147c73fd7"
+          },
+          {
+            "id": 5103,
+            "name": "Concón",
+            "token": "bd964439-e549-40c0-84eb-faf7bc95fd1a"
+          },
+          {
+            "id": 5104,
+            "name": "Juan Fernández",
+            "token": "1cfef803-052e-46bb-a50f-7badaf1fe202"
+          },
+          {
+            "id": 5105,
+            "name": "Puchuncaví",
+            "token": "f877e15b-a0b2-456c-a913-5f39205d0245"
+          },
+          {
+            "id": 5107,
+            "name": "Quintero",
+            "token": "b3e35012-2bed-4aa1-8bfc-212752d27739"
+          },
+          {
+            "id": 5109,
+            "name": "Viña del Mar",
+            "token": "326cbf69-7890-4936-97ed-d0d41743d4dc"
+          }
+        ],
+        "token": "1257bffd-55b1-49a2-a0a4-ff76c56a0343"
+      },
+      {
+        "id": 52,
+        "name": "Isla de Pascua",
+        "comunas": [
+          {
+            "id": 5201,
+            "name": "Isla de Pascua",
+            "token": "6d78675f-3ec7-44be-ae0d-077b7d42edcf"
+          }
+        ],
+        "token": "baa11e72-d9eb-47f4-a766-e1a6917fb4ab"
+      },
+      {
+        "id": 53,
+        "name": "Los Andes",
+        "comunas": [
+          {
+            "id": 5301,
+            "name": "Los Andes",
+            "token": "2a82832a-4a03-427e-93fa-c94bc0079c1b"
+          },
+          {
+            "id": 5302,
+            "name": "Calle Larga",
+            "token": "636d15cf-a5ae-4fbd-a3e4-dc22c01aa801"
+          },
+          {
+            "id": 5303,
+            "name": "Rinconada",
+            "token": "9965163c-1f41-4bf2-8af0-458191d2ac7f"
+          },
+          {
+            "id": 5304,
+            "name": "San Esteban",
+            "token": "c7ec4075-8766-4dea-a5df-0f757311b891"
+          }
+        ],
+        "token": "9b0a0f5a-6755-4c50-95a6-889d059a4088"
+      },
+      {
+        "id": 54,
+        "name": "Petorca",
+        "comunas": [
+          {
+            "id": 5401,
+            "name": "La Ligua",
+            "token": "3f8f5abd-27ad-4a42-93fd-50a528064348"
+          },
+          {
+            "id": 5402,
+            "name": "Cabildo",
+            "token": "a913bb95-fcfb-47fc-a861-cfdb5805e289"
+          },
+          {
+            "id": 5403,
+            "name": "Papudo",
+            "token": "837aeab1-691a-4a8c-8e36-e5b326485fe5"
+          },
+          {
+            "id": 5404,
+            "name": "Petorca",
+            "token": "517de386-1088-4ced-9e0b-73d9ffb4b6b3"
+          },
+          {
+            "id": 5405,
+            "name": "Zapallar",
+            "token": "53213496-329b-41e1-ab22-6da188f49f99"
+          }
+        ],
+        "token": "ac2235d3-551a-4f5f-a132-a6fe69892957"
+      },
+      {
+        "id": 55,
+        "name": "Quillota",
+        "comunas": [
+          {
+            "id": 5501,
+            "name": "Quillota",
+            "token": "a6a743ad-9f44-4e9a-8688-6324c0f18085"
+          },
+          {
+            "id": 5502,
+            "name": "La Calera",
+            "token": "b3c69700-05d6-47d9-b622-4a5b173aa0bf"
+          },
+          {
+            "id": 5503,
+            "name": "Hijuelas",
+            "token": "b0e70664-ff65-457c-8edd-6b0c3b733c82"
+          },
+          {
+            "id": 5504,
+            "name": "La Cruz",
+            "token": "da55118b-583b-4483-8796-61b7c873fec6"
+          },
+          {
+            "id": 5506,
+            "name": "Nogales",
+            "token": "dd3231a7-f8be-4c71-b5a7-53b3b2b6b2c2"
+          }
+        ],
+        "token": "dac98945-9358-4a98-bd83-c960f595b34a"
+      },
+      {
+        "id": 56,
+        "name": "San Antonio",
+        "comunas": [
+          {
+            "id": 5601,
+            "name": "San Antonio",
+            "token": "1c014cb0-4607-42a5-b37e-9a31650e7892"
+          },
+          {
+            "id": 5602,
+            "name": "Algarrobo",
+            "token": "3c8e87ea-682d-464e-b856-eb1edc11e87f"
+          },
+          {
+            "id": 5603,
+            "name": "Cartagena",
+            "token": "73cc5b57-01bf-4499-b902-bcf556a1ec44"
+          },
+          {
+            "id": 5604,
+            "name": "El Quisco",
+            "token": "daebb8ec-48cb-4032-9a91-5a3d091ce559"
+          },
+          {
+            "id": 5605,
+            "name": "El Tabo",
+            "token": "983a165d-c82c-4992-8dc1-941cfb42c1d4"
+          },
+          {
+            "id": 5606,
+            "name": "Santo Domingo",
+            "token": "48f7ccf6-1825-4cff-a0db-5e70bc90d5fe"
+          }
+        ],
+        "token": "7e0a4a75-038c-4c82-ace0-d8ca8e6b57b7"
+      },
+      {
+        "id": 57,
+        "name": "San Felipe de Aconcagua",
+        "comunas": [
+          {
+            "id": 5701,
+            "name": "San Felipe",
+            "token": "b5097c0f-1d60-43a0-8e51-f6cf6125b2c1"
+          },
+          {
+            "id": 5702,
+            "name": "Catemu",
+            "token": "34400054-8585-4b53-9fbf-c214865298cb"
+          },
+          {
+            "id": 5703,
+            "name": "Llay Llay",
+            "token": "3c4aa847-2773-416b-ad31-f55650e084e3"
+          },
+          {
+            "id": 5704,
+            "name": "Panquehue",
+            "token": "cdc7c0ea-d2c9-4933-8ec4-83a0e3652a64"
+          },
+          {
+            "id": 5705,
+            "name": "Putaendo",
+            "token": "a2fdc516-9144-4a48-a3d6-ac4b33a1c810"
+          },
+          {
+            "id": 5706,
+            "name": "Santa María",
+            "token": "46885791-6cfd-4cc2-ae2e-dfa6821393c6"
+          }
+        ],
+        "token": "4f7305a7-aae9-40f8-bef3-2d343c6beb80"
+      },
+      {
+        "id": 58,
+        "name": "Marga Marga",
+        "comunas": [
+          {
+            "id": 5106,
+            "name": "Quilpué",
+            "token": "1920d4f7-adad-4ce0-8630-dc653c431863"
+          },
+          {
+            "id": 5505,
+            "name": "Limache",
+            "token": "d5aec3f8-28cc-48ef-8eab-3bcba7899934"
+          },
+          {
+            "id": 5507,
+            "name": "Olmué",
+            "token": "74ae92c1-54d2-450d-a2d6-bcad288b50f1"
+          },
+          {
+            "id": 5108,
+            "name": "Villa Alemana",
+            "token": "4d284c6e-8641-4fb7-a10d-a4f5e9495a52"
+          }
+        ],
+        "token": "ddcc4772-b236-48d3-a8e9-89494de39112"
+      }
+    ],
+    "token": "8b3ec6c3-338a-4e7e-a32a-6d6a021f795d"
+  },
+  {
+    "id": 6,
+    "name": "VI: Región del Libertador Gral. Bernardo O'Higgins",
+    "provincias": [
+      {
+        "id": 61,
+        "name": "Cachapoal",
+        "comunas": [
+          {
+            "id": 6101,
+            "name": "Rancagua",
+            "token": "2fac18fc-2fd6-430f-aa1f-a5c6257e8bfa"
+          },
+          {
+            "id": 6102,
+            "name": "Codegua",
+            "token": "dae49d7b-9c9e-452c-9dce-c3c2822a2dd2"
+          },
+          {
+            "id": 6103,
+            "name": "Coinco",
+            "token": "3f5c165e-7459-45bb-bbe1-2237d5a1dd1e"
+          },
+          {
+            "id": 6104,
+            "name": "Coltauco",
+            "token": "1f7c6da5-5b4d-4cb6-b3ad-d593ccbf5ba0"
+          },
+          {
+            "id": 6105,
+            "name": "Doñihue",
+            "token": "2408e778-8a13-4f53-974f-9304d31882c6"
+          },
+          {
+            "id": 6106,
+            "name": "Graneros",
+            "token": "e0a26897-6235-420f-8a46-166397e83eb1"
+          },
+          {
+            "id": 6107,
+            "name": "Las Cabras",
+            "token": "cf8476ce-29c8-4798-9518-db48668f08f8"
+          },
+          {
+            "id": 6108,
+            "name": "Machalí",
+            "token": "1f078e52-6351-4e7c-a789-f835228934b3"
+          },
+          {
+            "id": 6109,
+            "name": "Malloa",
+            "token": "75e22f1c-abf1-4bd6-b125-f5cc17caaad1"
+          },
+          {
+            "id": 6110,
+            "name": "Mostazal",
+            "token": "054452ed-2cfd-4dc6-810a-d1e43493ae89"
+          },
+          {
+            "id": 6111,
+            "name": "Olivar",
+            "token": "e2978cce-62d8-4033-8452-1640c9c3ee2a"
+          },
+          {
+            "id": 6112,
+            "name": "Peumo",
+            "token": "d4d40e3c-ef0e-4985-853c-d74856494adc"
+          },
+          {
+            "id": 6113,
+            "name": "Pichidegua",
+            "token": "da20203c-c70d-462a-9a91-fb7e00ffda63"
+          },
+          {
+            "id": 6114,
+            "name": "Quinta de Tilcoco",
+            "token": "e298265d-483e-43f2-836b-a620b97eed30"
+          },
+          {
+            "id": 6115,
+            "name": "Rengo",
+            "token": "2ee9bfa7-1744-4c07-ba3a-7c3b17a32f26"
+          },
+          {
+            "id": 6116,
+            "name": "Requínoa",
+            "token": "94f13cec-1850-4875-b882-82ee44f00f12"
+          },
+          {
+            "id": 6117,
+            "name": "San Vicente",
+            "token": "a9968630-eb9b-4baa-8986-6f13834e0aea"
+          }
+        ],
+        "token": "3602bcc9-3354-4b56-a979-008fbbfc1340"
+      },
+      {
+        "id": 62,
+        "name": "Cardenal Caro",
+        "comunas": [
+          {
+            "id": 6201,
+            "name": "Pichilemu",
+            "token": "5fb8da39-8bc1-47bd-bd59-794b3ef342ca"
+          },
+          {
+            "id": 6202,
+            "name": "La Estrella",
+            "token": "f844f037-735b-4297-abd6-6d6a282d5957"
+          },
+          {
+            "id": 6203,
+            "name": "Litueche",
+            "token": "752d8d61-ec03-43bd-930c-b4f1075d91e4"
+          },
+          {
+            "id": 6204,
+            "name": "Marchihue",
+            "token": "bfd544ee-dddc-40f0-8c97-921369dbe330"
+          },
+          {
+            "id": 6205,
+            "name": "Navidad",
+            "token": "fc237007-5779-4892-b206-8eba53fca6af"
+          },
+          {
+            "id": 6206,
+            "name": "Paredones",
+            "token": "83b3aad3-0116-43be-aa25-a40ea9e5e531"
+          }
+        ],
+        "token": "8b2f0f75-116f-43e7-ae2b-85f734509138"
+      },
+      {
+        "id": 63,
+        "name": "Colchagua",
+        "comunas": [
+          {
+            "id": 6301,
+            "name": "San Fernando",
+            "token": "a84a85b1-c774-4530-8480-0a318978e36b"
+          },
+          {
+            "id": 6302,
+            "name": "Chépica",
+            "token": "b627939b-a7bc-408b-a7db-4b169c344485"
+          },
+          {
+            "id": 6303,
+            "name": "Chimbarongo",
+            "token": "c8400aaf-0e6f-4186-a746-3673998ba44c"
+          },
+          {
+            "id": 6304,
+            "name": "Lolol",
+            "token": "bde8fcb1-078b-4253-82bc-e4da0208d59e"
+          },
+          {
+            "id": 6305,
+            "name": "Nancagua",
+            "token": "a5dc7012-0d34-4f58-be00-856d1086af98"
+          },
+          {
+            "id": 6306,
+            "name": "Palmilla",
+            "token": "daef2b46-b5fe-4399-938a-6b878d58d8c4"
+          },
+          {
+            "id": 6307,
+            "name": "Peralillo",
+            "token": "62e6deb1-15a8-4eda-a529-ff4c90323bf4"
+          },
+          {
+            "id": 6308,
+            "name": "Placilla",
+            "token": "e3f329f0-f71a-4750-8a4d-7808c12b8b90"
+          },
+          {
+            "id": 6309,
+            "name": "Pumanque",
+            "token": "68ec98db-d9db-4dc0-93b2-03ec52c70dbe"
+          },
+          {
+            "id": 6310,
+            "name": "Santa Cruz",
+            "token": "bb099727-6311-4bc6-9897-e3cb74c5b614"
+          }
+        ],
+        "token": "65f9b4e1-97b2-45ec-ae8f-225f69540be6"
+      }
+    ],
+    "token": "674b293c-c9f3-4849-83dd-2f6403848aba"
+  },
+  {
+    "id": 7,
+    "name": "VII: Región del Maule",
+    "provincias": [
+      {
+        "id": 71,
+        "name": "Talca",
+        "comunas": [
+          {
+            "id": 7101,
+            "name": "Talca",
+            "token": "8171bf09-e4e4-47da-aeb9-d23ae2762ed5"
+          },
+          {
+            "id": 7102,
+            "name": "Constitución",
+            "token": "7c00e299-96e9-4052-b557-f1170e24764e"
+          },
+          {
+            "id": 7103,
+            "name": "Curepto",
+            "token": "207921bc-8e8f-4bad-a1d6-379b51cf9a5f"
+          },
+          {
+            "id": 7104,
+            "name": "Empedrado",
+            "token": "248edaf4-d43f-4d7c-967f-af789c4627be"
+          },
+          {
+            "id": 7105,
+            "name": "Maule",
+            "token": "d2503f33-b684-449a-bb8d-21a562c083a3"
+          },
+          {
+            "id": 7106,
+            "name": "Pelarco",
+            "token": "a309489e-ce41-49e7-8caa-c22ecccba6c9"
+          },
+          {
+            "id": 7107,
+            "name": "Pencahue",
+            "token": "0020f125-529b-4f2c-a0da-dca841260138"
+          },
+          {
+            "id": 7108,
+            "name": "Río Claro",
+            "token": "2c0ec6b0-18f6-4c63-a4b1-582fd23963dc"
+          },
+          {
+            "id": 7109,
+            "name": "San Clemente",
+            "token": "16f4fc5b-b7c1-4270-b8c2-a47b2a3352e8"
+          },
+          {
+            "id": 7110,
+            "name": "San Rafael",
+            "token": "d9f78080-755a-4848-9b65-e2f39866968d"
+          }
+        ],
+        "token": "ddeda06c-cc24-4c8b-94a2-59f055500645"
+      },
+      {
+        "id": 72,
+        "name": "Cauquenes",
+        "comunas": [
+          {
+            "id": 7201,
+            "name": "Cauquenes",
+            "token": "8c17a8bc-9f85-4054-acb6-51f0515101f7"
+          },
+          {
+            "id": 7202,
+            "name": "Chanco",
+            "token": "b0e51540-5737-4028-b6ff-f0dbc4c7a83f"
+          },
+          {
+            "id": 7203,
+            "name": "Pelluhue",
+            "token": "506982be-cc9a-41fb-9a00-f9f38c75dacd"
+          }
+        ],
+        "token": "d865da1f-06d8-4215-86f8-be26bde32c7f"
+      },
+      {
+        "id": 73,
+        "name": "Curicó",
+        "comunas": [
+          {
+            "id": 7301,
+            "name": "Curicó",
+            "token": "3863fb71-49f7-466d-86c6-009e05946262"
+          },
+          {
+            "id": 7302,
+            "name": "Hualañé",
+            "token": "f34a2d75-c9d0-4a96-9e48-4b5e707cfa8e"
+          },
+          {
+            "id": 7303,
+            "name": "Licantén",
+            "token": "583ea962-8a75-47d1-addc-3610e033871e"
+          },
+          {
+            "id": 7304,
+            "name": "Molina",
+            "token": "80bc46e9-901d-47cc-9599-a65158155692"
+          },
+          {
+            "id": 7305,
+            "name": "Rauco",
+            "token": "53b5918b-8212-4865-bfc1-a789bfe72782"
+          },
+          {
+            "id": 7306,
+            "name": "Romeral",
+            "token": "19b55332-adc4-4d61-8298-2ef7d8584e8f"
+          },
+          {
+            "id": 7307,
+            "name": "Sagrada Familia",
+            "token": "ef63072c-b9ed-4c8a-81e6-891937439230"
+          },
+          {
+            "id": 7308,
+            "name": "Teno",
+            "token": "8822f0df-bb12-4da6-a7b8-c768812c5320"
+          },
+          {
+            "id": 7309,
+            "name": "Vichuquén",
+            "token": "6250b24c-5619-4b2c-9fed-9b9e06be47a7"
+          }
+        ],
+        "token": "5e82bdc2-cae4-40cb-9e1b-53e5e789f85e"
+      },
+      {
+        "id": 74,
+        "name": "Linares",
+        "comunas": [
+          {
+            "id": 7401,
+            "name": "Linares",
+            "token": "07baf513-6be9-4f04-82a4-2b6f2e62723b"
+          },
+          {
+            "id": 7402,
+            "name": "Colbún",
+            "token": "6e9763a9-958a-4821-8320-8ade22128876"
+          },
+          {
+            "id": 7403,
+            "name": "Longaví",
+            "token": "16ac1fbe-f1ed-4f94-bf90-86e89667b49e"
+          },
+          {
+            "id": 7404,
+            "name": "Parral",
+            "token": "f14b29df-d54f-4ad4-a229-b13b77730ab9"
+          },
+          {
+            "id": 7405,
+            "name": "Retiro",
+            "token": "952316a8-f4da-4ce4-9aa3-3fddfc634bb7"
+          },
+          {
+            "id": 7406,
+            "name": "San Javier",
+            "token": "596e1cd5-cbec-42a1-bca6-3d4a72489cf9"
+          },
+          {
+            "id": 7407,
+            "name": "Villa Alegre",
+            "token": "cc9cae3a-2b3b-468e-ae9b-2173709b9f2c"
+          },
+          {
+            "id": 7408,
+            "name": "Yerbas Buenas",
+            "token": "abebfb1e-892f-469e-80df-e78bcf33d7fb"
+          }
+        ],
+        "token": "a75eb923-180a-4dbc-a55b-62dbe8ad5e7b"
+      }
+    ],
+    "token": "6d87de88-8878-4cae-92f6-45a9ec25f2b7"
+  },
+  {
+    "id": 8,
+    "name": "VIII: Región del Biobío",
+    "provincias": [
+      {
+        "id": 81,
+        "name": "Concepción",
+        "comunas": [
+          {
+            "id": 8101,
+            "name": "Concepción",
+            "token": "d4b667c5-f5af-4e6f-836d-3f2c3b529ea4"
+          },
+          {
+            "id": 8102,
+            "name": "Coronel",
+            "token": "f5dc165d-5578-4202-8368-544052adde75"
+          },
+          {
+            "id": 8103,
+            "name": "Chiguayante",
+            "token": "504fbfe9-24ec-4b60-8298-e796edbbb7ac"
+          },
+          {
+            "id": 8104,
+            "name": "Florida",
+            "token": "35955527-3bb4-4c55-b049-5f02796bcade"
+          },
+          {
+            "id": 8105,
+            "name": "Hualqui",
+            "token": "567c3e03-6420-4771-bcbf-72ebc943221e"
+          },
+          {
+            "id": 8106,
+            "name": "Lota",
+            "token": "1159997c-b435-4c81-baf9-42e31e3e6d2d"
+          },
+          {
+            "id": 8107,
+            "name": "Penco",
+            "token": "46925d91-95c8-496c-8d97-f9bfc04b6e1a"
+          },
+          {
+            "id": 8108,
+            "name": "San Pedro de la Paz",
+            "token": "11124d00-c333-4f6c-b991-70ba6a596002"
+          },
+          {
+            "id": 8109,
+            "name": "Santa Juana",
+            "token": "a9f49b0b-d79d-43a3-b2fc-a6fd58eb13a2"
+          },
+          {
+            "id": 8110,
+            "name": "Talcahuano",
+            "token": "88a1052e-2ca4-4ac5-968b-481a582c4632"
+          },
+          {
+            "id": 8111,
+            "name": "Tomé",
+            "token": "576c3068-0dda-41bf-bcab-fd7ee37e17e8"
+          },
+          {
+            "id": 8208,
+            "name": "Hualpén",
+            "token": "cce8c2b3-93c0-4745-90fa-7daa64fc5ed5"
+          }
+        ],
+        "token": "0519b723-9dad-4925-a1dd-afdf81e3dcca"
+      },
+      {
+        "id": 82,
+        "name": "Arauco",
+        "comunas": [
+          {
+            "id": 8201,
+            "name": "Lebu",
+            "token": "afa0095d-a564-4170-9438-d68ed06e1277"
+          },
+          {
+            "id": 8202,
+            "name": "Arauco",
+            "token": "e6682ce0-6d2f-43e5-8688-2ab98231c459"
+          },
+          {
+            "id": 8203,
+            "name": "Cañete",
+            "token": "76c28ae7-9153-43ef-9412-3313d85f4fa4"
+          },
+          {
+            "id": 8204,
+            "name": "Contulmo",
+            "token": "b78915c8-6f9e-42cf-82f1-395d87d7449d"
+          },
+          {
+            "id": 8205,
+            "name": "Curanilahue",
+            "token": "3087cefa-9db3-4011-9976-069871a2cac1"
+          },
+          {
+            "id": 8206,
+            "name": "Los Álamos",
+            "token": "e91bc147-e552-4a3b-9d8b-769207a2ce5d"
+          },
+          {
+            "id": 8207,
+            "name": "Tirúa",
+            "token": "7c77bec1-7fc8-4d9d-97dd-d68f153961a7"
+          }
+        ],
+        "token": "045e8559-c56f-4dbb-81d1-01da122db1c2"
+      },
+      {
+        "id": 83,
+        "name": "Biobío",
+        "comunas": [
+          {
+            "id": 8301,
+            "name": "Los Ángeles",
+            "token": "7a043806-9a19-4488-87f4-e87ae552e3be"
+          },
+          {
+            "id": 8302,
+            "name": "Antuco",
+            "token": "b22e141e-4832-459d-9ea6-96f226277dc7"
+          },
+          {
+            "id": 8303,
+            "name": "Cabrero",
+            "token": "44fa4289-b718-4915-81d4-19790ec88b26"
+          },
+          {
+            "id": 8304,
+            "name": "Laja",
+            "token": "c973f131-7736-4258-89e9-ba7a5b56a021"
+          },
+          {
+            "id": 8305,
+            "name": "Mulchén",
+            "token": "a67cd987-1994-44fe-bc4c-db12bdcf79f5"
+          },
+          {
+            "id": 8306,
+            "name": "Nacimiento",
+            "token": "ff3d5adf-3e30-47e6-96d8-abfd145d9f27"
+          },
+          {
+            "id": 8307,
+            "name": "Negrete",
+            "token": "0eaf21f7-974e-48eb-be3e-a9e3dcacbe3f"
+          },
+          {
+            "id": 8308,
+            "name": "Quilaco",
+            "token": "1920ad9f-121e-4a33-9f1b-78373cb99a7c"
+          },
+          {
+            "id": 8309,
+            "name": "Quilleco",
+            "token": "ff3ff92d-80a3-400d-8936-0901e8013e71"
+          },
+          {
+            "id": 8310,
+            "name": "San Rosendo",
+            "token": "33596737-c39f-4ab6-a2c8-1b21c79f1f4d"
+          },
+          {
+            "id": 8311,
+            "name": "Santa Bárbara",
+            "token": "22ca75c5-8f18-4955-8902-5c79f003a987"
+          },
+          {
+            "id": 8312,
+            "name": "Tucapel",
+            "token": "90b64d91-4d93-4dfc-8030-881979425f9f"
+          },
+          {
+            "id": 8313,
+            "name": "Yumbel",
+            "token": "9c49d154-0e30-4744-af37-b94b66135982"
+          },
+          {
+            "id": 8314,
+            "name": "Alto Biobío",
+            "token": "2a726cb2-bf92-4eed-94ed-a17589bcc401"
+          }
+        ],
+        "token": "fd4f6892-c0f1-4985-b8f6-a05bc5f567e0"
+      }
+    ],
+    "token": "636f6fce-988e-4d8a-bf3d-bfaab45bd609"
+  },
+  {
+    "id": 9,
+    "name": "IX: Región de la Araucanía",
+    "provincias": [
+      {
+        "id": 91,
+        "name": "Cautín",
+        "comunas": [
+          {
+            "id": 9101,
+            "name": "Temuco",
+            "token": "61e09282-959e-44e5-97c4-128ac0a52781"
+          },
+          {
+            "id": 9102,
+            "name": "Carahue",
+            "token": "488e6152-f3ff-44db-b60f-6002b5460c8a"
+          },
+          {
+            "id": 9103,
+            "name": "Cunco",
+            "token": "5e60ea26-6153-464a-8ecb-703c5dd9407e"
+          },
+          {
+            "id": 9104,
+            "name": "Curarrehue",
+            "token": "32119ba8-3d32-4e25-983a-07f909fc59b6"
+          },
+          {
+            "id": 9105,
+            "name": "Freire",
+            "token": "913dd6ba-8951-4003-828f-a7ccc827fca7"
+          },
+          {
+            "id": 9106,
+            "name": "Galvarino",
+            "token": "c14c2ebe-9ca1-4311-8d61-75aa6980e9f1"
+          },
+          {
+            "id": 9107,
+            "name": "Gorbea",
+            "token": "3b776eb0-b9dc-4cad-a45e-aabcb3cd5b8d"
+          },
+          {
+            "id": 9108,
+            "name": "Lautaro",
+            "token": "6707d5ff-5697-4679-b9cb-3147fed325be"
+          },
+          {
+            "id": 9109,
+            "name": "Loncoche",
+            "token": "e932c145-6d0d-4ca1-bef8-0a19c99911ce"
+          },
+          {
+            "id": 9110,
+            "name": "Melipeuco",
+            "token": "8bda092e-070a-4cd1-a350-0c4941c93989"
+          },
+          {
+            "id": 9111,
+            "name": "Nueva Imperial",
+            "token": "111639ce-97b5-492a-bfe0-94dfdeaaed0e"
+          },
+          {
+            "id": 9112,
+            "name": "Padre las Casas",
+            "token": "b39efe5a-57f5-4d92-ab70-e8d0b11f3566"
+          },
+          {
+            "id": 9113,
+            "name": "Perquenco",
+            "token": "9a8bf35a-138b-4493-b319-5a1db24279d9"
+          },
+          {
+            "id": 9114,
+            "name": "Pitrufquén",
+            "token": "e4d5b148-1142-4930-b673-ba84e1e4c65e"
+          },
+          {
+            "id": 9115,
+            "name": "Pucón",
+            "token": "7fa7648e-98fe-4021-9f71-b3e6e153211f"
+          },
+          {
+            "id": 9116,
+            "name": "Saavedra",
+            "token": "ffcdff06-66fb-498b-9fb7-50cc962a70dc"
+          },
+          {
+            "id": 9117,
+            "name": "Teodoro Schmidt",
+            "token": "5e7c3552-7eeb-4f35-8b51-e8323471284e"
+          },
+          {
+            "id": 9118,
+            "name": "Toltén",
+            "token": "8cbc26ff-0d59-4323-8ecd-e04cabb7fec4"
+          },
+          {
+            "id": 9119,
+            "name": "Vilcún",
+            "token": "a22c1130-27dd-4f61-a3c8-3f438959934b"
+          },
+          {
+            "id": 9120,
+            "name": "Villarrica",
+            "token": "8092421b-36c5-4f97-a7e8-fdcb23c0b35b"
+          },
+          {
+            "id": 9121,
+            "name": "Cholchol",
+            "token": "6a346176-c255-41eb-a4d1-5c10f0ffd7e3"
+          }
+        ],
+        "token": "42888e02-a1fd-46cd-b532-300d0fd7214d"
+      },
+      {
+        "id": 92,
+        "name": "Malleco",
+        "comunas": [
+          {
+            "id": 9201,
+            "name": "Angol",
+            "token": "817788cc-7efd-4623-ae3d-1e08b03a6102"
+          },
+          {
+            "id": 9202,
+            "name": "Collipulli",
+            "token": "59651bef-a4e4-4dfa-8e23-7087df96dabc"
+          },
+          {
+            "id": 9203,
+            "name": "Curacautín",
+            "token": "5dfefe56-d7a7-4c38-87c0-620909400c0b"
+          },
+          {
+            "id": 9204,
+            "name": "Ercilla",
+            "token": "c996c8aa-e371-4566-bf6a-932b038c198a"
+          },
+          {
+            "id": 9205,
+            "name": "Lonquimay",
+            "token": "4f437d87-4f0b-4a1e-a1eb-c2f6536a730b"
+          },
+          {
+            "id": 9206,
+            "name": "Los Sauces",
+            "token": "85df17c3-fb02-4577-b848-18cd08e3e7b9"
+          },
+          {
+            "id": 9207,
+            "name": "Lumaco",
+            "token": "77676f01-b08f-4941-9f93-ca019d9941aa"
+          },
+          {
+            "id": 9208,
+            "name": "Purén",
+            "token": "edad6db4-b97b-43eb-b562-7599da34b44a"
+          },
+          {
+            "id": 9209,
+            "name": "Renaico",
+            "token": "2012285b-87d9-48b9-9a44-6480d980635e"
+          },
+          {
+            "id": 9210,
+            "name": "Traiguén",
+            "token": "eb000ed2-0af9-4120-a125-9d093e570b9c"
+          },
+          {
+            "id": 9211,
+            "name": "Victoria",
+            "token": "f0729baf-16f0-4beb-8a1e-f0bbd7f94888"
+          }
+        ],
+        "token": "9f87cb54-a122-471e-8dda-fff3cd78553c"
+      }
+    ],
+    "token": "328637b9-0750-4877-aaa9-f74750384a6b"
+  },
+  {
+    "id": 10,
+    "name": "X: Región de Los Lagos",
+    "provincias": [
+      {
+        "id": 101,
+        "name": "Llanquihue",
+        "comunas": [
+          {
+            "id": 10101,
+            "name": "Puerto Montt",
+            "token": "b76c2c34-63a5-48e6-a728-e6309fc8b814"
+          },
+          {
+            "id": 10102,
+            "name": "Calbuco",
+            "token": "00da4ad2-1e4e-44b8-8cb1-1636bda10d0d"
+          },
+          {
+            "id": 10103,
+            "name": "Cochamó",
+            "token": "71eba8e8-380d-4846-b650-c2c74f2d0a46"
+          },
+          {
+            "id": 10104,
+            "name": "Fresia",
+            "token": "3c325935-6ccd-4b43-8ca1-3402f2987de1"
+          },
+          {
+            "id": 10105,
+            "name": "Frutillar",
+            "token": "27362adc-76e1-4217-840f-acf72f4f092c"
+          },
+          {
+            "id": 10106,
+            "name": "Los Muermos",
+            "token": "91fc7e84-f26b-44a0-a718-c23ae96cb680"
+          },
+          {
+            "id": 10107,
+            "name": "Llanquihue",
+            "token": "16fb32b1-fdca-4af7-95bf-fc98082ff858"
+          },
+          {
+            "id": 10108,
+            "name": "Maullín",
+            "token": "0c709bfb-1ad1-4191-b7b9-2055a9e42290"
+          },
+          {
+            "id": 10109,
+            "name": "Puerto Varas",
+            "token": "6283866b-c873-47ca-9b8f-929e46a39171"
+          }
+        ],
+        "token": "5f1552ed-922b-4a5b-947a-d1682858ff48"
+      },
+      {
+        "id": 102,
+        "name": "Chiloé",
+        "comunas": [
+          {
+            "id": 10201,
+            "name": "Castro",
+            "token": "a0373186-d1c0-45f0-bf53-3ab42c801e21"
+          },
+          {
+            "id": 10202,
+            "name": "Ancud",
+            "token": "18854bd7-9e84-49e3-9c55-8a1c08acd687"
+          },
+          {
+            "id": 10203,
+            "name": "Chonchi",
+            "token": "c1754915-6ed4-4eec-b644-4678356716c9"
+          },
+          {
+            "id": 10204,
+            "name": "Curaco de Vélez",
+            "token": "a49bdb90-e348-43ce-a8d4-af3b8f063321"
+          },
+          {
+            "id": 10205,
+            "name": "Dalcahue",
+            "token": "e8641477-c380-4ab9-87e2-bedb95b7d2cc"
+          },
+          {
+            "id": 10206,
+            "name": "Puqueldón",
+            "token": "88e0b5c8-97cf-4cf5-9bcc-513f0cf743fc"
+          },
+          {
+            "id": 10207,
+            "name": "Queilén",
+            "token": "9fc93efd-69d2-4e80-afdf-d107fe76f751"
+          },
+          {
+            "id": 10208,
+            "name": "Quellón",
+            "token": "e02aee4b-0e95-4127-be24-4d15b3f48142"
+          },
+          {
+            "id": 10209,
+            "name": "Quemchi",
+            "token": "5c2b44b5-d9ef-477c-8ea7-0be2db1ae107"
+          },
+          {
+            "id": 10210,
+            "name": "Quinchao",
+            "token": "e81f467d-d768-45e4-809c-bad0434dee0c"
+          }
+        ],
+        "token": "f5360616-e8a9-4444-88b1-73a00816deba"
+      },
+      {
+        "id": 103,
+        "name": "Osorno",
+        "comunas": [
+          {
+            "id": 10301,
+            "name": "Osorno",
+            "token": "d4440b27-c308-44a8-af73-8c7bd3524d3c"
+          },
+          {
+            "id": 10302,
+            "name": "Puerto Octay",
+            "token": "221bf9cc-3933-401d-b060-8f390c6919f1"
+          },
+          {
+            "id": 10303,
+            "name": "Purranque",
+            "token": "7e25deb8-5f05-4b3e-b6f5-49000f8377f5"
+          },
+          {
+            "id": 10304,
+            "name": "Puyehue",
+            "token": "3591c1a9-e9c1-4c73-981d-2e512278cbf3"
+          },
+          {
+            "id": 10305,
+            "name": "Río Negro",
+            "token": "9034e5cc-a27e-4903-bd06-4720788a7e8f"
+          },
+          {
+            "id": 10306,
+            "name": "San Juan de la Costa",
+            "token": "2209706e-be4b-4808-9629-3baaa27fe7fb"
+          },
+          {
+            "id": 10307,
+            "name": "San Pablo",
+            "token": "a6055cfa-e5c4-4ba1-970f-1aa7a1503131"
+          }
+        ],
+        "token": "368367a4-5750-4a0c-ab0c-8807f6a7d3ca"
+      },
+      {
+        "id": 104,
+        "name": "Palena",
+        "comunas": [
+          {
+            "id": 10401,
+            "name": "Chaitén",
+            "token": "e4f6e49e-30ca-4f13-809e-9a310b2b2042"
+          },
+          {
+            "id": 10402,
+            "name": "Futaleufú",
+            "token": "b3df4aea-a135-4aa7-9cd4-71485d0ce11a"
+          },
+          {
+            "id": 10403,
+            "name": "Hualaihué",
+            "token": "691933d6-a690-4d39-8b88-06bc58f9c5b1"
+          },
+          {
+            "id": 10404,
+            "name": "Palena",
+            "token": "831f5b14-64fa-4981-a3ef-46fb9be678c6"
+          }
+        ],
+        "token": "433227d7-5036-4a66-bfd7-14a971f08ef7"
+      }
+    ],
+    "token": "22116641-cc9f-48a4-9da1-7d9d5345df73"
+  },
+  {
+    "id": 11,
+    "name": "XI: Región de Aysén del Gral. Carlos Ibáñez del Campo",
+    "provincias": [
+      {
+        "id": 111,
+        "name": "Coihaique",
+        "comunas": [
+          {
+            "id": 11101,
+            "name": "Coyhaique",
+            "token": "8e5ab62e-7f8d-42d6-96eb-bea61a7e8949"
+          },
+          {
+            "id": 11102,
+            "name": "Lago Verde",
+            "token": "ee37d667-4de9-4b0e-8ec2-303bf7c5a546"
+          }
+        ],
+        "token": "cd2a912d-308e-4cbc-abf4-dbbb9c787ade"
+      },
+      {
+        "id": 112,
+        "name": "Aysén",
+        "comunas": [
+          {
+            "id": 11201,
+            "name": "Aysén",
+            "token": "b482b2d1-ebab-4f89-99e5-8b1dfa8e6f32"
+          },
+          {
+            "id": 11202,
+            "name": "Cisnes",
+            "token": "b0d2e82a-060f-4899-bb89-3edfb6877f88"
+          },
+          {
+            "id": 11203,
+            "name": "Guaitecas",
+            "token": "b360eedc-7a0d-46b1-98c3-338288912951"
+          }
+        ],
+        "token": "5a183db4-0cbf-466a-853c-d650a188a882"
+      },
+      {
+        "id": 113,
+        "name": "Capitán Prat",
+        "comunas": [
+          {
+            "id": 11301,
+            "name": "Cochrane",
+            "token": "ba321e72-38ee-4dc8-a7fb-322d56020a37"
+          },
+          {
+            "id": 11302,
+            "name": "O'Higgins",
+            "token": "2780e4a1-1d2b-4930-81ea-b83bba9856e1"
+          },
+          {
+            "id": 11303,
+            "name": "Tortel",
+            "token": "24fa37ec-972a-4ebb-9c00-af94f21a1081"
+          }
+        ],
+        "token": "27e84dfe-4d91-4165-9528-9d38b7b97982"
+      },
+      {
+        "id": 114,
+        "name": "General Carrera",
+        "comunas": [
+          {
+            "id": 11401,
+            "name": "Chile Chico",
+            "token": "c928e4ab-2c80-48ad-acfa-b652b5f6f8b5"
+          },
+          {
+            "id": 11402,
+            "name": "Río Ibáñez",
+            "token": "c56302b3-3144-46fc-ba4d-585e1034d080"
+          }
+        ],
+        "token": "f20471f3-5d70-411b-813a-969c8f41556d"
+      }
+    ],
+    "token": "50a4acf5-a538-46a1-b721-789d50647a62"
+  },
+  {
+    "id": 12,
+    "name": "XII: Región de Magallanes y de la Antártica Chilena",
+    "provincias": [
+      {
+        "id": 121,
+        "name": "Magallanes",
+        "comunas": [
+          {
+            "id": 12101,
+            "name": "Punta Arenas",
+            "token": "9b83f476-ccdd-44b5-8206-9f114f6fd3a3"
+          },
+          {
+            "id": 12102,
+            "name": "Laguna Blanca",
+            "token": "cfbe2357-522d-4d75-990a-4f68bcb075a8"
+          },
+          {
+            "id": 12103,
+            "name": "Río Verde",
+            "token": "620dbc58-5ee3-49e0-a783-d0288bce66c9"
+          },
+          {
+            "id": 12104,
+            "name": "San Gregorio",
+            "token": "b3c4671e-a212-4288-bc25-47a24828b11b"
+          }
+        ],
+        "token": "5fcfbed0-9bd5-45ee-8461-a8dfdcc4f2cd"
+      },
+      {
+        "id": 122,
+        "name": "Antártica Chilena",
+        "comunas": [
+          {
+            "id": 12201,
+            "name": "Cabo de Hornos",
+            "token": "84441ea0-7f91-45c0-8a3c-3d13af8d31ed"
+          },
+          {
+            "id": 12202,
+            "name": "Antártica",
+            "token": "f0ba2003-cc09-41da-9e5a-c58b2b17108b"
+          }
+        ],
+        "token": "d4f12b2d-e165-4eeb-8a26-b853a1d86501"
+      },
+      {
+        "id": 123,
+        "name": "Tierra del Fuego",
+        "comunas": [
+          {
+            "id": 12301,
+            "name": "Porvenir",
+            "token": "883b8e76-4da6-40e0-9531-1d9243f5aacb"
+          },
+          {
+            "id": 12302,
+            "name": "Primavera",
+            "token": "5dc722fd-c916-4e50-8b74-1ee1268db5e8"
+          },
+          {
+            "id": 12303,
+            "name": "Timaukel",
+            "token": "e7fe741b-a030-4d2a-bd45-5253acdfbdc3"
+          }
+        ],
+        "token": "3463fce6-ac7c-488e-9830-00f4c23d2710"
+      },
+      {
+        "id": 124,
+        "name": "Última Esperanza",
+        "comunas": [
+          {
+            "id": 12401,
+            "name": "Natales",
+            "token": "2a11a9a9-19eb-47b8-a796-341532cc92d6"
+          },
+          {
+            "id": 12402,
+            "name": "Torres del Paine",
+            "token": "52a13b7d-4f39-443a-ac08-aff5ebfc57b6"
+          }
+        ],
+        "token": "0339055e-4d89-4942-a7ff-363801c38fe6"
+      }
+    ],
+    "token": "109cbfc8-dd7d-44cb-b6bf-5dd94662f745"
+  },
+  {
+    "id": 13,
+    "name": "XIII: Región Metropolitana de Santiago",
+    "provincias": [
+      {
+        "id": 131,
+        "name": "Santiago",
+        "comunas": [
+          {
+            "id": 13101,
+            "name": "Santiago",
+            "token": "a3d16662-9ef7-4f38-be93-60c6147884a8"
+          },
+          {
+            "id": 13102,
+            "name": "Cerrillos",
+            "token": "fb9819b7-b54f-44cb-a28e-8e5e603e694a"
+          },
+          {
+            "id": 13103,
+            "name": "Cerro Navia",
+            "token": "998db2f6-8f1f-48f1-b038-7dde13725fe7"
+          },
+          {
+            "id": 13104,
+            "name": "Conchalí",
+            "token": "d9bdce99-3fee-42ad-a812-233206b1a063"
+          },
+          {
+            "id": 13105,
+            "name": "El Bosque",
+            "token": "2878e1a6-fde6-410f-94f2-e44e63c9b715"
+          },
+          {
+            "id": 13106,
+            "name": "Estación Central",
+            "token": "b57369b5-824c-4bc1-9b24-6b376f37c054"
+          },
+          {
+            "id": 13107,
+            "name": "Huechuraba",
+            "token": "114a4695-4f0f-4b95-b3c1-8eb49d8763f9"
+          },
+          {
+            "id": 13108,
+            "name": "Independencia",
+            "token": "cb618824-0a2a-45f1-92ed-4911db31e25f"
+          },
+          {
+            "id": 13109,
+            "name": "La Cisterna",
+            "token": "e76e0364-2db9-4ea7-bc6e-24e15b33dc93"
+          },
+          {
+            "id": 13110,
+            "name": "La Florida",
+            "token": "ea2808bb-25d9-4a60-93f0-5b83908402c4"
+          },
+          {
+            "id": 13111,
+            "name": "La Granja",
+            "token": "0c253da5-3559-4973-8b2d-32f74491ebb0"
+          },
+          {
+            "id": 13112,
+            "name": "La Pintana",
+            "token": "54e55b74-6357-4cd1-b2e4-7182c668a12f"
+          },
+          {
+            "id": 13113,
+            "name": "La Reina",
+            "token": "9563e998-142c-4a70-9348-dc1e82214839"
+          },
+          {
+            "id": 13114,
+            "name": "Las Condes",
+            "token": "4a469edc-9677-4d7d-a682-0028dcf5a52d"
+          },
+          {
+            "id": 13115,
+            "name": "Lo Barnechea",
+            "token": "13c18b14-0cf4-48cb-8b60-2cd9ec412563"
+          },
+          {
+            "id": 13116,
+            "name": "Lo Espejo",
+            "token": "83261803-240b-4a6b-97a3-e907aff5671f"
+          },
+          {
+            "id": 13117,
+            "name": "Lo Prado",
+            "token": "bd9afd15-a945-4017-8c90-81cf96d8caf9"
+          },
+          {
+            "id": 13118,
+            "name": "Macul",
+            "token": "bfa11306-5d27-41df-bce0-29e397b99930"
+          },
+          {
+            "id": 13119,
+            "name": "Maipú",
+            "token": "53789cd6-1362-46b3-8bc4-4e8848d3cb0d"
+          },
+          {
+            "id": 13120,
+            "name": "Ñuñoa",
+            "token": "b6889be1-2f13-4d26-bfe5-8ae95b9576f7"
+          },
+          {
+            "id": 13121,
+            "name": "Pedro Aguirre Cerda",
+            "token": "97d76701-4a02-491c-9ebd-239cdd080d02"
+          },
+          {
+            "id": 13122,
+            "name": "Peñalolén",
+            "token": "94637d05-2ee4-413b-9d10-ddc06b99447a"
+          },
+          {
+            "id": 13123,
+            "name": "Providencia",
+            "token": "6965d28d-8b90-4fac-8ebf-5edea5bf7fda"
+          },
+          {
+            "id": 13124,
+            "name": "Pudahuel",
+            "token": "1b502f83-2de0-4b8e-a71e-38dc9bf456e0"
+          },
+          {
+            "id": 13125,
+            "name": "Quilicura",
+            "token": "dacdedb7-a6d0-4e07-98f0-a68c365e3c9c"
+          },
+          {
+            "id": 13126,
+            "name": "Quinta Normal",
+            "token": "6354fbdd-89ac-4c25-af8b-5d189771cc0a"
+          },
+          {
+            "id": 13127,
+            "name": "Recoleta",
+            "token": "b0127a03-6fa0-4584-bac0-6aa4a26d989b"
+          },
+          {
+            "id": 13128,
+            "name": "Renca",
+            "token": "7978e4a2-2945-45b1-b962-3611a46d7ac6"
+          },
+          {
+            "id": 13129,
+            "name": "San Joaquín",
+            "token": "2d362123-3753-4bf3-a636-3a426cb0260f"
+          },
+          {
+            "id": 13130,
+            "name": "San Miguel",
+            "token": "9aeaef86-8b7d-49e1-9e47-9256ab1e989d"
+          },
+          {
+            "id": 13131,
+            "name": "San Ramón",
+            "token": "fec03d46-fd41-4d03-b529-0e41c738b6e6"
+          },
+          {
+            "id": 13132,
+            "name": "Vitacura",
+            "token": "3cd8be11-2bf4-4335-8b16-51ae31c498d8"
+          }
+        ],
+        "token": "78111926-dd21-4964-b53f-4b8f2826a743"
+      },
+      {
+        "id": 132,
+        "name": "Cordillera",
+        "comunas": [
+          {
+            "id": 13201,
+            "name": "Puente Alto",
+            "token": "285c21c5-f83e-4bd4-8b9f-367c61b92541"
+          },
+          {
+            "id": 13202,
+            "name": "Pirque",
+            "token": "ff095846-5366-45f4-b2ec-fbb765b17cf2"
+          },
+          {
+            "id": 13203,
+            "name": "San José de Maipo",
+            "token": "d8b343f6-3824-4d1f-8a91-a39a7be733e2"
+          }
+        ],
+        "token": "7b399b31-46a1-4fd3-b83f-5c401bbc4aac"
+      },
+      {
+        "id": 133,
+        "name": "Chacabuco",
+        "comunas": [
+          {
+            "id": 13301,
+            "name": "Colina",
+            "token": "ad9b2097-0171-44ca-a474-5e170f6d9bf9"
+          },
+          {
+            "id": 13302,
+            "name": "Lampa",
+            "token": "139c8a08-e7ac-4b10-a7b6-4996604e1c0e"
+          },
+          {
+            "id": 13303,
+            "name": "Tiltil",
+            "token": "10849e2b-d8ef-4bdd-80a6-a9fc278321b7"
+          }
+        ],
+        "token": "613b9b7f-b44b-4e6b-aaf4-85fecbf892e0"
+      },
+      {
+        "id": 134,
+        "name": "Maipo",
+        "comunas": [
+          {
+            "id": 13401,
+            "name": "San Bernardo",
+            "token": "68627ca8-abbc-443a-a96a-dcd1a1af0a29"
+          },
+          {
+            "id": 13402,
+            "name": "Buin",
+            "token": "4f160528-a100-49db-8e30-8f5e52089ce5"
+          },
+          {
+            "id": 13403,
+            "name": "Calera de Tango",
+            "token": "dcb8aacd-6e11-4b32-a8d6-f86d3d8ea38b"
+          },
+          {
+            "id": 13404,
+            "name": "Paine",
+            "token": "11962aa0-7b17-43ee-8f86-008e461c8deb"
+          }
+        ],
+        "token": "785c03bd-1882-497a-8c56-3d3ddb9eb051"
+      },
+      {
+        "id": 135,
+        "name": "Melipilla",
+        "comunas": [
+          {
+            "id": 13501,
+            "name": "Melipilla",
+            "token": "af9bf2d8-d1e6-4652-a3bd-ccfdd0d869ca"
+          },
+          {
+            "id": 13502,
+            "name": "Alhué",
+            "token": "66ed514f-45c6-47fa-8c64-24c1f628fba8"
+          },
+          {
+            "id": 13503,
+            "name": "Curacaví",
+            "token": "a1d0e363-bf02-458a-afea-9813faa2a4fb"
+          },
+          {
+            "id": 13504,
+            "name": "María Pinto",
+            "token": "a47c8183-6197-4a10-a5df-e3dad1bf1e97"
+          },
+          {
+            "id": 13505,
+            "name": "San Pedro",
+            "token": "c0546803-5b32-4345-94d4-1aea144d87d8"
+          }
+        ],
+        "token": "44c9f7b7-8451-4771-8070-685367a3b0b2"
+      },
+      {
+        "id": 136,
+        "name": "Talagante",
+        "comunas": [
+          {
+            "id": 13601,
+            "name": "Talagante",
+            "token": "ba441cb2-0406-4cc2-9ab8-bb07a00f5088"
+          },
+          {
+            "id": 13602,
+            "name": "El Monte",
+            "token": "073828a3-a8bd-466f-9cda-fedd25a08e23"
+          },
+          {
+            "id": 13603,
+            "name": "Isla de Maipo",
+            "token": "64c7643d-238b-41f9-9446-77d0653beb75"
+          },
+          {
+            "id": 13604,
+            "name": "Padre Hurtado",
+            "token": "f13ffcf1-e162-4aac-a416-600ec8f30f0e"
+          },
+          {
+            "id": 13605,
+            "name": "Peñaflor",
+            "token": "421ebe1f-efec-4cf3-adeb-f6ada397174e"
+          }
+        ],
+        "token": "55f4ce47-261b-4aa0-a690-c27edea340ab"
+      }
+    ],
+    "token": "f4a189c4-4f36-4298-b3e2-856fd464e9a0"
+  },
+  {
+    "id": 14,
+    "name": "XIV: Región de Los Ríos",
+    "provincias": [
+      {
+        "id": 141,
+        "name": "Valdivia",
+        "comunas": [
+          {
+            "id": 10501,
+            "name": "Valdivia",
+            "token": "7defbc4e-e1b0-4383-9504-0edfc2799b94"
+          },
+          {
+            "id": 10502,
+            "name": "Corral",
+            "token": "c9ef99f0-9275-40f8-a35c-182975cc9a70"
+          },
+          {
+            "id": 10506,
+            "name": "Lanco",
+            "token": "128e338b-f685-4d59-bff4-0c868e6bb482"
+          },
+          {
+            "id": 10507,
+            "name": "Los Lagos",
+            "token": "30d50c81-3b78-417c-be0d-dce95d69c970"
+          },
+          {
+            "id": 10508,
+            "name": "Máfil",
+            "token": "c1f4053f-487f-431f-bb9d-04d445c2df87"
+          },
+          {
+            "id": 10509,
+            "name": "Mariquina",
+            "token": "316f47d8-acbb-4ba1-886d-d6048922e755"
+          },
+          {
+            "id": 10510,
+            "name": "Paillaco",
+            "token": "f9d0448a-e013-43d1-9181-55490066c51d"
+          },
+          {
+            "id": 10511,
+            "name": "Panguipulli",
+            "token": "12f585ce-893e-41b4-9e4e-f19c73b2cc46"
+          }
+        ],
+        "token": "2e50238a-e3ba-4c83-8ac1-4837bd5cacb9"
+      },
+      {
+        "id": 142,
+        "name": "Ranco",
+        "comunas": [
+          {
+            "id": 10504,
+            "name": "La Unión",
+            "token": "5f78661e-f3ff-4fac-b94b-49278982c3f5"
+          },
+          {
+            "id": 10503,
+            "name": "Futrono",
+            "token": "e94dd0ce-20b6-4c40-8130-42c2de2589a1"
+          },
+          {
+            "id": 10505,
+            "name": "Lago Ranco",
+            "token": "bf154b0e-1fec-4aa5-bf0b-8ae19f2ded55"
+          },
+          {
+            "id": 10512,
+            "name": "Río Bueno",
+            "token": "a6653a2f-ed6c-4f91-886f-25f91d649e37"
+          }
+        ],
+        "token": "270cf63d-b0d3-425e-9e7e-b836d5c655f9"
+      }
+    ],
+    "token": "07eea5a8-2ad6-485b-91ec-35ab6a4d9e8c"
+  },
+  {
+    "id": 15,
+    "name": "XV: Región de Arica y Parinacota",
+    "provincias": [
+      {
+        "id": 151,
+        "name": "Arica",
+        "comunas": [
+          {
+            "id": 15101,
+            "name": "Arica",
+            "token": "431a23e5-b4f0-4fff-93c4-10fdff8cf508"
+          },
+          {
+            "id": 1202,
+            "name": "Camarones",
+            "token": "73f93f26-4150-4dc5-9ee6-ff0e701cce3d"
+          }
+        ],
+        "token": "082efad1-46e4-42aa-b210-188a8960a6b8"
+      },
+      {
+        "id": 152,
+        "name": "Parinacota",
+        "comunas": [
+          {
+            "id": 1301,
+            "name": "Putre",
+            "token": "bf1309b9-df74-4f9d-8ea6-effa96a920c9"
+          },
+          {
+            "id": 1302,
+            "name": "General Lagos",
+            "token": "76df0bff-ae1b-4a36-ad6d-4ca0f21b704a"
+          }
+        ],
+        "token": "861b4860-bc46-4114-ad51-ad79a7772e8e"
+      }
+    ],
+    "token": "b176f0f9-1c58-4196-9d11-458f05e1585f"
+  },
+  {
+    "id": 16,
+    "name": "XVI: Región de Ñuble",
+    "provincias": [
+      {
+        "id": 163,
+        "name": "Diguillín",
+        "comunas": [
+          {
+            "id": 8401,
+            "name": "Chillán",
+            "token": "1a46c2dd-5a6c-4355-b2e2-5a96f61c2ec7"
+          },
+          {
+            "id": 8402,
+            "name": "Bulnes",
+            "token": "c26052f2-c740-40de-aca2-f22471ee8838"
+          },
+          {
+            "id": 8406,
+            "name": "Chillán Viejo",
+            "token": "742df95b-2d10-4585-8c4b-e7efbc13534c"
+          },
+          {
+            "id": 8407,
+            "name": "El Carmen",
+            "token": "bbe49dfe-1eca-47a6-b8bc-522e6c8e3f43"
+          },
+          {
+            "id": 8410,
+            "name": "Pemuco",
+            "token": "7fcc2198-266e-43e1-9ced-caebc4a9c925"
+          },
+          {
+            "id": 8411,
+            "name": "Pinto",
+            "token": "c5fa6945-adc9-4f6d-b972-04f04f6c33df"
+          },
+          {
+            "id": 8413,
+            "name": "Quillón",
+            "token": "c0ce486e-59c1-4e50-ac94-12556cea6288"
+          },
+          {
+            "id": 8418,
+            "name": "San Ignacio",
+            "token": "c6518ac5-c71a-47d6-b950-972cc4f1f007"
+          },
+          {
+            "id": 8421,
+            "name": "Yungay",
+            "token": "4f4c0f05-250c-4316-868f-d1b69febe55f"
+          }
+        ],
+        "token": "19848809-65f2-4a73-981b-5bb275332e9f"
+      },
+      {
+        "id": 162,
+        "name": "Itata",
+        "comunas": [
+          {
+            "id": 8403,
+            "name": "Cobquecura",
+            "token": "1008a953-7988-4053-a2bd-076bec24796c"
+          },
+          {
+            "id": 8404,
+            "name": "Coelemu",
+            "token": "923cb9b7-d827-4ede-b76d-37229e0cd1e2"
+          },
+          {
+            "id": 8408,
+            "name": "Ninhue",
+            "token": "f8cdee2c-9e23-4048-9fac-aac35549284e"
+          },
+          {
+            "id": 8412,
+            "name": "Portezuelo",
+            "token": "aa00625c-6ef6-4196-926f-7a617bae3a33"
+          },
+          {
+            "id": 8414,
+            "name": "Quirihue",
+            "token": "2c93b73c-6452-4d07-9555-166dad6b0310"
+          },
+          {
+            "id": 8415,
+            "name": "Ránquil",
+            "token": "e819c03c-1268-40ea-8d23-bb703a114248"
+          },
+          {
+            "id": 8420,
+            "name": "Treguaco",
+            "token": "27411c6e-6c19-448e-9093-38d52ff56498"
+          }
+        ],
+        "token": "ffa31ef4-3e29-4341-8d6c-4a7824049614"
+      },
+      {
+        "id": 161,
+        "name": "Punilla",
+        "comunas": [
+          {
+            "id": 8405,
+            "name": "Coihueco",
+            "token": "6a08e87f-c288-4e82-8a71-9334d3f97377"
+          },
+          {
+            "id": 8409,
+            "name": "Ñiquén",
+            "token": "97ae709d-f6d3-4e58-a0b9-cb2a1052d223"
+          },
+          {
+            "id": 8416,
+            "name": "San Carlos",
+            "token": "65205c44-2412-4154-be09-73f840f71edc"
+          },
+          {
+            "id": 8417,
+            "name": "San Fabián",
+            "token": "16d5ab74-8816-4a53-8347-789c8f424eac"
+          },
+          {
+            "id": 8419,
+            "name": "San Nicolás",
+            "token": "4a728ca7-0d23-4fa7-8a69-3398fc061305"
+          }
+        ],
+        "token": "a5838460-8255-498b-9fd8-c0f42fd81303"
+      }
+    ],
+    "token": "e4a0f5a0-cc1d-48cb-8d54-c4a4c9fa1023"
+  }
+]
